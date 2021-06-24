@@ -1,0 +1,10 @@
+    "name": "POMO token",
+    "website": "https://pomo.finance/",
+    "description": "POMO is a decentralized token, with a mission to end the environment pollution",
+    "explorer": "https://bscscan.com/token/0x64418b2856e27db016bfeb12277d3b2a1213a804",
+    "type": "BEP20",
+    "symbol": "POMO",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x64418b2856e27db016bfeb12277d3b2a1213a804"
+}
